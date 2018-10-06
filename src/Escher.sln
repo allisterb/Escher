@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mcs-simple-escher", "mcs\mcs\mcs-simple-escher.csproj", "{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escher.BridgedotNET", "Escher.BridgedotNET\Escher.BridgedotNET.csproj", "{320C2406-D46E-4D6C-9ECD-D1D7F5BBE41F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escher.Core", "Escher.Core\Escher.Core.csproj", "{743D2C22-C221-4371-A984-5E280C84F4CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug - AST|Any CPU = Debug - AST|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}.Debug - AST|Any CPU.ActiveCfg = Debug - AST|Any CPU
+		{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}.Debug - AST|Any CPU.Build.0 = Debug - AST|Any CPU
+		{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{320C2406-D46E-4D6C-9ECD-D1D7F5BBE41F}.Debug - AST|Any CPU.ActiveCfg = Debug|Any CPU
+		{320C2406-D46E-4D6C-9ECD-D1D7F5BBE41F}.Debug - AST|Any CPU.Build.0 = Debug|Any CPU
+		{320C2406-D46E-4D6C-9ECD-D1D7F5BBE41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320C2406-D46E-4D6C-9ECD-D1D7F5BBE41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320C2406-D46E-4D6C-9ECD-D1D7F5BBE41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320C2406-D46E-4D6C-9ECD-D1D7F5BBE41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743D2C22-C221-4371-A984-5E280C84F4CB}.Debug - AST|Any CPU.ActiveCfg = Debug|Any CPU
+		{743D2C22-C221-4371-A984-5E280C84F4CB}.Debug - AST|Any CPU.Build.0 = Debug|Any CPU
+		{743D2C22-C221-4371-A984-5E280C84F4CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743D2C22-C221-4371-A984-5E280C84F4CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743D2C22-C221-4371-A984-5E280C84F4CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743D2C22-C221-4371-A984-5E280C84F4CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF28388-2D9F-49F8-A75E-267894B25C72}
+	EndGlobalSection
+EndGlobal

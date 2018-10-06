@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mcs", "mcs.csproj", "{D4A01C5B-A1B5-48F5-BB5B-D2E1BD236E56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mcs-simple", "mcs-simple.csproj", "{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug - AST|Any CPU = Debug - AST|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4A01C5B-A1B5-48F5-BB5B-D2E1BD236E56}.Debug - AST|Any CPU.ActiveCfg = Release|net_4_x
+		{D4A01C5B-A1B5-48F5-BB5B-D2E1BD236E56}.Debug - AST|Any CPU.Build.0 = Release|net_4_x
+		{D4A01C5B-A1B5-48F5-BB5B-D2E1BD236E56}.Debug|Any CPU.ActiveCfg = Debug|net_4_x
+		{D4A01C5B-A1B5-48F5-BB5B-D2E1BD236E56}.Release|Any CPU.ActiveCfg = Release|net_4_x
+		{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}.Debug - AST|Any CPU.ActiveCfg = Debug - AST|Any CPU
+		{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}.Debug - AST|Any CPU.Build.0 = Debug - AST|Any CPU
+		{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1AE6CA-8877-4FFA-9702-35A58F2F043F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3358E27-0A2F-48C2-9CA6-AFB4F3DDA85A}
+	EndGlobalSection
+EndGlobal
